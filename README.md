@@ -5,7 +5,7 @@
 - 📫 How to reach me - Discord: Sydney Nguyen#0266
 - I use this website as backup incase I lost my files 💀 -
 
-- people can use this to track my status if they ever want me to create JARVIS -
+- people can use this to track my status if they ever want me to create JARVIS 🤡 -
 
 <!---
 SydneyN2/SydneyN2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
