@@ -20,3 +20,36 @@ std::cout << "\n";
 std::cout << "Product of odd numbers is " << odd;
 std::cout << "\n";
 }
+
+
+//===============================================
+//jesus christ this took some time
+
+#include <iostream>
+#include <string>
+
+// Define is_palindrome() here:
+bool is_palindrome(std::string text){
+  std::string rvtext = "";
+  for (int x = text.size(); x >= 1; x--){
+      rvtext = rvtext + text[x-1];
+  }
+  
+ 
+  if (rvtext == text){
+    return true;
+  }
+  else {
+    return false;
+  }
+  
+}
+
+
+int main() {
+  
+  std::cout << is_palindrome("madam") << "\n";
+  std::cout << is_palindrome("ada") << "\n";
+  std::cout << is_palindrome("lovelace") << "\n";
+  
+}
